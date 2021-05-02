@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlloyAdvanced", "AlloyAdvanced\AlloyAdvanced.csproj", "{9A7AFA68-786F-4E13-9EE3-4036A5290E2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlloyDemo", "AlloyDemo\AlloyDemo.csproj", "{38EC8735-2874-41F8-BAE6-566A4C1A73B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlloyTraining", "AlloyTraining\AlloyTraining.csproj", "{D569F08F-8358-4BBC-87D1-FFC739D316A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthwindWebApi", "NorthwindWebApi\NorthwindWebApi.csproj", "{F333BAFC-3CAC-41C0-BA52-8B825A9E1922}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindConsole", "FindConsole\FindConsole.csproj", "{0128C4DA-91C5-4F09-8A14-EE2D3204D4E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpiserverFindExample", "EpiserverFindExample\EpiserverFindExample.csproj", "{051E18F8-6BC6-48B7-9478-130DC967575F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpiserverSearch", "EpiserverSearch\EpiserverSearch.csproj", "{1354C090-4F58-427D-99B6-6F3084F277A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A7AFA68-786F-4E13-9EE3-4036A5290E2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A7AFA68-786F-4E13-9EE3-4036A5290E2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A7AFA68-786F-4E13-9EE3-4036A5290E2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A7AFA68-786F-4E13-9EE3-4036A5290E2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38EC8735-2874-41F8-BAE6-566A4C1A73B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38EC8735-2874-41F8-BAE6-566A4C1A73B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38EC8735-2874-41F8-BAE6-566A4C1A73B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38EC8735-2874-41F8-BAE6-566A4C1A73B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D569F08F-8358-4BBC-87D1-FFC739D316A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D569F08F-8358-4BBC-87D1-FFC739D316A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D569F08F-8358-4BBC-87D1-FFC739D316A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D569F08F-8358-4BBC-87D1-FFC739D316A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F333BAFC-3CAC-41C0-BA52-8B825A9E1922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F333BAFC-3CAC-41C0-BA52-8B825A9E1922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F333BAFC-3CAC-41C0-BA52-8B825A9E1922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F333BAFC-3CAC-41C0-BA52-8B825A9E1922}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0128C4DA-91C5-4F09-8A14-EE2D3204D4E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0128C4DA-91C5-4F09-8A14-EE2D3204D4E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0128C4DA-91C5-4F09-8A14-EE2D3204D4E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0128C4DA-91C5-4F09-8A14-EE2D3204D4E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{051E18F8-6BC6-48B7-9478-130DC967575F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{051E18F8-6BC6-48B7-9478-130DC967575F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{051E18F8-6BC6-48B7-9478-130DC967575F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{051E18F8-6BC6-48B7-9478-130DC967575F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1354C090-4F58-427D-99B6-6F3084F277A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1354C090-4F58-427D-99B6-6F3084F277A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1354C090-4F58-427D-99B6-6F3084F277A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1354C090-4F58-427D-99B6-6F3084F277A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5269F3CD-5571-44ED-A486-741BEC413FC4}
+	EndGlobalSection
+EndGlobal
